@@ -1,4 +1,4 @@
-# project-one
+# Data Science Salaries Analysis
 
 Team Members:
 * Adrian Sandoval
