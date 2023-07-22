@@ -18,7 +18,7 @@ We plan to look at global trends for salaries in data science related profession
 * Does company size have an impact on salary?
     - Judging from the dataset, the only conclusion based on company size that can be made is smaller companies are tending to have a lesser salary poayout than the medium or large companies. Apart from that inference, any company for any position tends to have salaries at many different levels leading us to believe that the company size does not have an impact on an employees salary. 
 * Can we predict salary outlooks for the future?
-    - Using the dataset, we are indeed able to predict a salary outlook for the future, although, calculating how a salary would taper off would prove to be very difficult, predicting within a reasonable time from being around the next year or two would seem to be a bit more predictable. While using the dataset, one would be able to use a line to best fit the trend to predict a reasonable number for the future of that job title. Also, in using a regression line to predict the future outlooks, one would see that the salaries would rise over time all around, no matter the job title.
+    - Using the dataset, we are indeed able to predict a salary outlook for the future, although, calculating how a salary would taper off would prove to be very difficult, predicting within a reasonable time from being around the next year or two would seem to be a bit more predictable. Although, in using a regression line to predict the future outlooks, one would see that the salaries would rise over time all around, no matter the job title.
 
 ## Datasets used:
 Data Science Salaries: 2020-2023: https://www.kaggle.com/datasets/iamsouravbanerjee/data-science-salaries-2023
