@@ -1,0 +1,18 @@
+
+
+The data tells us that overall the United States is the highest paid country across all job postions, and in all instances except for Analytics Engineer Canada is the Second highest paid country while the United KIngdom is always the least paid
+
+That conclusion is even more supported after breraking down each job position by experince level. 
+
+In our data there are nine ocassions when each contry has data for a paricualr Job title at a certin experince level
+- ony twice was the united states not the highest paid:
+	1. Senior Data Analyst where Canada made $135,000 and the united states made $121,000
+	2. Senior Data Scientist where Canada made $176,000 and the United States made $165,860
+
+Furthermore, there was only 2 instances whern the United Kingdom was not the least paid country
+	1. Senior Analytics Engineer where they made the second highest salary behind the United States making $143,000
+	2. Senior Machine Leaerning engineer wherw ethey made the second highest salry behind the United states making $172,000  
+
+Overall, out of the nince ocassions, 55% of the time the numbers matched up witht the conclusion that the United Staes makes the most, Canada second, and the United Kingdom third 
+
+ 

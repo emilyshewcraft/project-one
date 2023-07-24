@@ -1,0 +1,34 @@
+This line graph shows us the progression of median salary as each job title moves from enry level to Executive level
+
+Here the data shows us that for each job position there is an increase in median salry as you go from one experince level to the next 
+
+-However That is pretty obvous conculsion: as you progress in your career you get paid more
+
+-So whats really important about what this grapgh shows us is the Salry growth through out each postions career
+
+
+
+
+Our data set shows us due to high/low precentage of growth throughout the progression of experince levels that certsin positions see a significant cange in the ranking of median salary from enty level to executive
+
+Median Salary: Entry Level
+1. Machine LEanring Engineer: $92,000
+2. Analytics Engineer: $90,000
+3. Data Scientist: $74,141
+4. Data Engineer: $65,000
+5. Data Analyst: $57,920
+
+Salary Growth % from Entry to Executive
+1. Data Engineer: 207.69%
+2. Daat Scientist: 149.52%
+3. Data Analyst: 107.18%
+4. Machine LEarning Engineer: 96.97%
+5. Analytics Engineer: 84.44%
+
+Median Salary: Executive level (** Only had data that went up to Senior Level)
+1. Data Engineer: $200,000
+2. Data Scientist: $185,000
+3. Machine LEarning Engineer: $182,200 **
+4. Analytics Engineer: $166,000
+5. Data Analyst: $120,000
+
